@@ -4,6 +4,7 @@ This project shows the weather in different locations using this command ./weath
 ## Necessary packages
 
 You need the packages to install 
+
 In arch you need to install js-beautify with paru or yay or a simple installation recommended with git clone AUR package.
 
 ```bash
